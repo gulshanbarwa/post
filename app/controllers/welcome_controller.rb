@@ -1,6 +1,5 @@
 class WelcomeController < ApplicationController
 	def index
-		@message = "this is message"
 	end
 
 	def send_mail
